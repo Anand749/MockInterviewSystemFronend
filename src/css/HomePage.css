@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  background-image: url("../../public/assets/background4.jpg");
+  background-image: url("../../public/assets/ChatGPT\ Image\ Apr\ 6\,\ 2025\,\ 01_37_18\ PM.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -21,7 +21,7 @@ body {
   
 *::selection
 {
-  background-color: #EDC215;
+  background-color: #113A44;
   color: #ffffff;
 }
 :root {
@@ -47,12 +47,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: black;
-    border-bottom: 3px solid #EDC215;
+    background: #113A44;
+    border-bottom: 3px solid #113A44;
 }
 
 .header-text {
-    background: linear-gradient(to right, #EDC215, white);
+    background: linear-gradient(to right,  white);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -101,7 +101,7 @@ body {
     max-height: auto;
     word-wrap: break-word;
     font-family: "Roboto Slab", serif;
-    color: black;
+    color: #003D4B;
     font-size: 35px;
     padding: 10px;
     font-weight: bold;
@@ -120,7 +120,7 @@ body {
     height: 40px;
     border-radius: 10px;
     border: none;
-    background-color: #EDC215;
+    background-color: #3971D6;
     color: black;
     font-size: 15px;
     position: relative; /* Position it absolutely */
@@ -159,7 +159,7 @@ body {
     height: 40px;
     border-radius: 10px;
     border: none;
-    background-color: #EDC215;
+    background-color: #7893E4;
     color: black;
     font-size: 15px;
     position: relative;
@@ -210,11 +210,11 @@ body {
 
 .getStartedButton:hover,
 .context-div button:hover {
-    box-shadow: 0px 2px 10px #EDC215;
+    box-shadow: 0px 2px 10px #113A44;
 }
 
 .Left-arrow:hover {
-    color: #EDC215;
+    color: #113A44;
 }
 .radio-div{
     position: relative;
